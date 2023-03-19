@@ -1,2 +1,2 @@
 # ask
-आज सिकेको कुरा ("Aaja Sikeko Kura" roughly translates to "Today I learnt") 
+आज सिकेको कुरा | **A**aja **S**ikeko **K**ura (roughly translates to "Today I learnt") 
