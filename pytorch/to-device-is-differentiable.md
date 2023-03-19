@@ -41,3 +41,8 @@ print(x.grad)
 ```
 
 The important thing to remember is that since no new computation graph is created at any of these moves, only the original tensor can collect the gradients. Every other operation (including the moves) is adding to the computation graph itself.
+
+## Source
+- https://discuss.pytorch.org/t/no-gradient-on-cuda/144807
+- https://discuss.pytorch.org/t/tensor-grad-none-for-tensors-on-gpu/24838
+- https://pytorch.org/docs/stable/generated/torch.Tensor.to.html#torch.Tensor.to
